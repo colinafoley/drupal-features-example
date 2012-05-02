@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Birds feature.
+ */
+
+include_once 'birds.features.inc';
